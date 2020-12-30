@@ -18,4 +18,4 @@ To make predictions on a test set:
 
 python homegrown_naive_bayes.py test bayes-model.pkl tweets.test.txt testing-output-file.txt
 
-These particular train/test files were provided by Indiana University computer professor [David Crandall](https://homes.luddy.indiana.edu/djcran/).
+These particular train/test files were provided by Indiana University computer science professor [David Crandall](https://homes.luddy.indiana.edu/djcran/).
